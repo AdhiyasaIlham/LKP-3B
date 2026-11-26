@@ -4,4 +4,4 @@
 **NIM:** 240511015
 **Kelas:** TI24E
 
-**Materi Praktikum:** Pertemuan 5: Konversi TO-DO LIST KE REACT
+**Materi Praktikum:** Pertemuan 5: KONVERSI TO-DO LIST KE REACT
